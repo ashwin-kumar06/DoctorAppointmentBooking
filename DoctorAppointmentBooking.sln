@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentApi", "AppointmentApi\AppointmentApi.csproj", "{54480C79-5029-4BC0-9718-9538E8FBF674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentApiTesting", "AppointmentApiTesting\AppointmentApiTesting.csproj", "{BA455862-4B7F-4821-870F-FACB0390ADB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54480C79-5029-4BC0-9718-9538E8FBF674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54480C79-5029-4BC0-9718-9538E8FBF674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54480C79-5029-4BC0-9718-9538E8FBF674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54480C79-5029-4BC0-9718-9538E8FBF674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA455862-4B7F-4821-870F-FACB0390ADB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA455862-4B7F-4821-870F-FACB0390ADB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA455862-4B7F-4821-870F-FACB0390ADB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA455862-4B7F-4821-870F-FACB0390ADB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25CF886C-887F-454B-A9CE-316B45ED0941}
+	EndGlobalSection
+EndGlobal
